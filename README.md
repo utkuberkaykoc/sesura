@@ -27,21 +27,21 @@ Sesura, kullanıcıların farklı ambient sesleri (yağmur, orman, ateş, kuşla
 
 ### 🎛️ Preset Sistemi
 - **16 Hazır Preset**: Farklı atmosferler için önceden ayarlanmış karışımlar
-- **Yağmurlu Gece**: Huzurlu yağmur atmosferi
-- **Orman Sabahı**: Kuş sesleriyle dolu orman
-- **Sıcak Kafe**: Rahat kafe atmosferi
-- **Kamp Ateşi**: Yıldızlı gökyüzü altında kamp
-- **Okyanus Esintisi**: Dalgaların huzur verici sesi
-- **Fırtınalı Hava**: Güçlü fırtına atmosferi
-- **Zen Bahçesi**: Meditasyon için huzur verici ortam
-- **Şehir Sabahı**: Şehrin uyanış sesleri
-- **Dağ İnzivası**: Dağların sessizliği
-- **Sıcak Kış**: Şömine başında kış akşamı
-- **Tropik Cennet**: Tropik adanın huzur verici sesleri
-- **Çalışma Odası**: Odaklanma için ideal ortam
-- **Uyku Getiren**: Derin uyku için huzur verici sesler
-- **Yaratıcı Akış**: Yaratıcılığı tetikleyen ortam
-- **Doğa Senfonisi**: Doğanın tüm seslerinin uyumu
+ - **Yağmurlu Gece**: Huzurlu yağmur atmosferi
+ - **Orman Sabahı**: Kuş sesleriyle dolu orman
+ - **Sıcak Kafe**: Rahat kafe atmosferi
+ - **Kamp Ateşi**: Yıldızlı gökyüzü altında kamp
+ - **Okyanus Esintisi**: Dalgaların huzur verici sesi
+ - **Fırtınalı Hava**: Güçlü fırtına atmosferi
+ - **Zen Bahçesi**: Meditasyon için huzur verici ortam
+ - **Şehir Sabahı**: Şehrin uyanış sesleri
+ - **Dağ İnzivası**: Dağların sessizliği
+ - **Sıcak Kış**: Şömine başında kış akşamı
+ - **Tropik Cennet**: Tropik adanın huzur verici sesleri
+ - **Çalışma Odası**: Odaklanma için ideal ortam
+ - **Uyku Getiren**: Derin uyku için huzur verici sesler
+ - **Yaratıcı Akış**: Yaratıcılığı tetikleyen ortam
+ - **Doğa Senfonisi**: Doğanın tüm seslerinin uyumu
 
 
 ### 💾 Kaydetme Sistemi
