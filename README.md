@@ -3,7 +3,7 @@
 Modern ve interaktif bir ambient ses karıştırma uygulaması - çoklu ses katmanlarını birleştirerek kişiselleştirilmiş huzur ortamları yaratmanızı sağlayan React tabanlı web uygulaması. 9 farklı ambient ses, 16 hazır preset ve gelişmiş ses yönetimi ile profesyonel bir ses deneyimi sunar.
 
 > **Staj Projesi**: Bu proje, 2024-2025 yaz stajı kapsamında geliştirilmiştir.
-> **Demo Websitesi**: Projeyi incelemek için (sesura.berkaykoc.net)[https://sesura.berkaykoc.net] adresini ziyaret edebilirsiniz.
+> **Demo Websitesi**: Projeyi incelemek için [sesura.berkaykoc.net](https://sesura.berkaykoc.net) adresini ziyaret edebilirsiniz.
 
 ## 🎵 Proje Hakkında
 
