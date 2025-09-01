@@ -1,0 +1,81 @@
+{
+  "name": "sesura",
+  "version": "1.0.0",
+  "description": "Modern ve interaktif bir ambient ses karıştırma uygulaması - çoklu ses katmanlarını birleştirerek kişiselleştirilmiş huzur ortamları yaratmanızı sağlayan Next.js tabanlı web uygulaması",
+  "keywords": [
+    "ambient-sounds",
+    "audio-mixer",
+    "nextjs",
+    "react",
+    "typescript",
+    "web-audio-api",
+    "sound-design",
+    "meditation",
+    "relaxation",
+    "audio-player",
+    "sound-effects",
+    "turkish-app",
+    "tailwind-css"
+  ],
+  "author": {
+    "name": "Berkay Koç",
+    "email": "iletisim@berkaykoc.net",
+    "url": "https://github.com/utkuberkaykoc"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/utkuberkaykoc/sesura.git"
+  },
+  "bugs": {
+    "url": "https://github.com/utkuberkaykoc/sesura/issues"
+  },
+  "homepage": "https://github.com/utkuberkaykoc/sesura#readme",
+  "private": true,
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "lint:fix": "next lint --fix",
+    "type-check": "tsc --noEmit",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "dependencies": {
+    "next": "15.4.5",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "lucide-react": "^0.400.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+
+    "@types/node": "^20.19.9",
+    "@types/react": "^19.1.9",
+    "@types/react-dom": "^19.1.7",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^9",
+    "eslint-config-next": "15.4.5",
+    "postcss": "^8.5.6",
+    "prettier": "^3.1.0",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5.8.3"
+  },
+  "browserslist": [
+    ">0.3%",
+    "not dead",
+    "not op_mini all"
+  ],
+  "prettier": {
+    "semi": true,
+    "trailingComma": "es5",
+    "singleQuote": true,
+    "printWidth": 80,
+    "tabWidth": 2
+  }
+}
